@@ -1,3 +1,4 @@
 .DS_Store
 *.tmTheme.cache
-
+/*.sublime-workspace
+/*.todo

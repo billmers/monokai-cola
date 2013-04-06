@@ -1,0 +1,23 @@
+{
+  "folders":
+  [
+    {
+      "path": ".",
+      "name": "monokai-cola",
+      "folder_exclude_patterns": [],
+      "file_exclude_patterns":
+      [
+        "*.sublime-project",
+        "*.sublime-workspace",
+        "*.tmTheme.cache"
+      ]
+    }
+  ],
+  "settings":
+  {
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "detect_indentation": false,
+    "use_tab_stops": true
+  }
+}

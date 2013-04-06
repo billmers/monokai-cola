@@ -1,17 +1,16 @@
+# Hi
+This is my collection of Sublime Text themes cobbled together from across the net, modified slightly to suit my own questionable taste.
 
-# Monokai Cola
-
-A Sublime Text color scheme that adds extra definitions to the [Monokai Soda ](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip) scheme from the excellent [Buy Me a Soda](https://github.com/buymeasoda/soda-theme/) theme.
-
-This is basically the original Monokai Soda theme with additional syntax highlighting definitions for Ruby, Markdown, and Slim.
+## Monokai Cola Scheme
+A mod of the excellent [Monokai Soda](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip) color scheme from the [Buy Me a Soda](https://github.com/buymeasoda/soda-theme/) theme.  Includes some color tweaks and extended syntax highlighting for Ruby and Slim.
 
 The Slim syntax depends on the the [ruby-slim-tmbundle fork](https://github.com/tycooon/ruby-slim-tmbundle) by Tycoon, as it seems a bit better than the version available through the Sublime Package manager.
 
-## Screenshots
-(coming soon)
+## Markdown Schemes
+Three Markdown themes are included as well: [Markdown Espresso](https://github.com/iest/Espresso-Markdown-theme-for-Sublime-Text-2/) by Iestyn Williams, [Markdown Editor](https://github.com/ttscoff/MarkdownEditing) by Brett Terpstra, and Markdown Cola by yours truly (it's fugly, don't use it).
 
 ## Credits
-Many thanks to Ian Hill (http://buymeasoda.com/) for doing all the hard work and creating the original theme!
+Many thanks to [Ian Hill](http://buymeasoda.com/) for doing all the hard work and creating the original Soda Theme, and full credit to [Brett Terpstra](https://github.com/ttscoff/) and [Iestyn Williams](https://github.com/iest/) for their respective Markdown themes.
 
 ## Notes
 

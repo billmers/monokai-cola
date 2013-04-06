@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>name</key>
+    <string>MarkdownCola</string>
+    <key>settings</key>
+    <array>
+      <dict>
+        <key>settings</key>
+        <dict>
+          <key>background</key>
+          <string>#222222</string>
+          <key>caret</key>
+          <string>#F8F8F0</string>
+          <key>foreground</key>
+          <string>#F8F8F2</string>
+          <key>invisibles</key>
+          <string>#3B3A32</string>
+          <key>lineHighlight</key>
+          <string>#333333</string>
+          <key>selection</key>
+          <string>#444444</string>
+          <key>findHighlight</key>
+          <string>#FFE792</string>
+          <key>findHighlightForeground</key>
+          <string>#000000</string>
+          <key>selectionBorder</key>
+          <string>#1c1c1c</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Heading Text</string>
+        <key>scope</key>
+        <string>entity.name.section.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#AE81FF</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Heading Punctuation</string>
+        <key>scope</key>
+        <string>punctuation.definition.heading.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#75715E</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markdown: Linebreak</string>
+        <key>scope</key>
+        <string>text.html.markdown meta.dummy.line-break</string>
+        <key>settings</key>
+        <dict>
+          <key>background</key>
+          <string>#444444</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Raw</string>
+        <key>scope</key>
+        <string>text.html.markdown markup.raw.inline, markup.raw</string>
+        <key>settings</key>
+        <dict>
+          <key>background</key>
+          <string>#FEE09C12</string>
+          <key>fontStyle</key>
+          <string></string>
+          <key>foreground</key>
+          <string>#CFCFC2</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Italic</string>
+        <key>scope</key>
+        <string>markup.italic</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>italic</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Bold</string>
+        <key>scope</key>
+        <string>markup.bold</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>bold</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Bold and Italic Punctuation</string>
+        <key>scope</key>
+        <string>text.html.markdown punctuation.definition.bold, text.html.markdown punctuation.definition.italic</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#E6DB74</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Underline</string>
+        <key>scope</key>
+        <string>markup.underline</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>underline</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Quote</string>
+        <key>scope</key>
+        <string>markup.quote</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>italic</string>
+          <key>foreground</key>
+          <string>#66D9EF</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: List</string>
+        <key>scope</key>
+        <string>markup.list</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#FFFFFF</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: List</string>
+        <key>scope</key>
+        <string>markup.list meta.paragraph.list</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#BBBBBB</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Separator</string>
+        <key>scope</key>
+        <string>meta.separator</string>
+        <key>settings</key>
+        <dict>
+          <key>background</key>
+          <string>#eee8d5</string>
+          <key>fontStyle</key>
+          <string>bold</string>
+          <key>foreground</key>
+          <string>#268bd2</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Link</string>
+        <key>scope</key>
+        <string>meta.link.inline.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#FD971F</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Markup: Image</string>
+        <key>scope</key>
+        <string>meta.image.inline.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#FD971F</string>
+        </dict>
+      </dict>
+    </array>
+    <key>uuid</key>
+    <string>BF4E1964-4E88-8142-0DB9-E8F52D7EDEEC</string>
+  </dict>
+</plist>
